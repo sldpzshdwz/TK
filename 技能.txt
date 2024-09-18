@@ -1,0 +1,21 @@
+gl++;jineng[e][gl ].xue=100;  jineng[e][gl ].gong=40;    jineng[e][gl ].shu=33; jineng[e][gl ].lei=1;  jineng[e][gl ].ggb='L'; jineng[e][gl ].qian=400; jineng[e][gl ].c="豺狼人";  jineng[e][gl ].jilei=1; jineng[e][gl ].shuliang=1;
+gl++;jineng[e][gl ].xue=52;   jineng[e][gl ].gong=20;    jineng[e][gl ].shu=35; jineng[e][gl ].lei=1;  jineng[e][gl ].ggb='i'; jineng[e][gl ].qian=500; jineng[e][gl ].c="民兵*3";  jineng[e][gl ].jilei=1; jineng[e][gl ].shuliang=3;
+gl++;jineng[e][gl ].xue=750;  jineng[e][gl ].gong=10;    jineng[e][gl ].shu=20; jineng[e][gl ].lei=1;  jineng[e][gl ].ggb='M'; jineng[e][gl ].qian=600; jineng[e][gl ].c="巨石";    jineng[e][gl ].jilei=1; jineng[e][gl ].shuliang=1;
+gl++;jineng[e][gl ].xue=78;   jineng[e][gl ].gong=24;    jineng[e][gl ].shu=50; jineng[e][gl ].lei=1;  jineng[e][gl ].ggb='u'; jineng[e][gl ].qian=600; jineng[e][gl ].c="轻骑*2";  jineng[e][gl ].jilei=1; jineng[e][gl ].shuliang=2;
+gl++;jineng[e][gl ].xue=10;   jineng[e][gl ].gong=80;    jineng[e][gl ].shu=40; jineng[e][gl ].lei=1;  jineng[e][gl ].ggb=','; jineng[e][gl ].qian=2000;jineng[e][gl ].c="蜘蛛*16";  jineng[e][gl ].jilei=1; jineng[e][gl ].shuliang=8;
+4000 10
+1200 6.24
+7000 12.5
+2400 6.24
+800  6.4
+
+5.建兵营（2000元）
+6.建农田（金矿*2）（800元）
+7.建主城（400元）
+8.学习 部署守卫（1000元） 已方建筑被损坏后，在其周围召唤4个民兵
+9.豺狼人营地（1000元） 每隔一段时间召唤一个豺狼人
+10.钢剑术（800元） 以后训练士兵的攻击力增加18%
+11.镶皮甲（1600元） 以后训练士兵的防御力增加41%
+12.迅捷！（1200元） 以后训练士兵的速度增加40%（不能超过100）
+13.学习 回响术（800元） 你选择的技能将不会被替换
+14.
